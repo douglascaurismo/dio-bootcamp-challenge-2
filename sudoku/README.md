@@ -12,7 +12,7 @@ Eu primeiro criei uma versão correta com números aleatórios. E então apaguei
 
 🔗 [Acesse o jogo online aqui](https://www.douglasoliveira.com.br/sudoku/)
 
-## ✨ Funcionalidades
+### Funcionalidades
 
 - Geração de tabuleiros de Sudoku aletórios
 - Interface simples e responsiva
